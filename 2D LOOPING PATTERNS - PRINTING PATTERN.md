@@ -3,12 +3,12 @@
 
 ---
 
-### AIM  
+### AIM:  
 To write a Python program to print a triangular star pattern using loops.
 
 ---
 
-### ALGORITHM
+### ALGORITHM:
 
 1. Begin the program.  
 2. Read the integer `n` from the user using `input()`. This will determine the number of rows in the pattern.  
@@ -23,14 +23,21 @@ To write a Python program to print a triangular star pattern using loops.
 
 ---
 
-### PROGRAM
+### PROGRAM:
 ```
-#Reg.No:
-#Name:
-#Add Your Code Here
+#Reg.No:212222060199
+#Name: Reshma S
 
+rows=int(input())
+for i in range(rows,0,-1):
+    for j in range(0,i):
+        print("*",end=" ")
+    print()
 ```
 
-### OUTPUT
+### OUTPUT:
+<img width="606" height="557" alt="image" src="https://github.com/user-attachments/assets/e929abca-28f9-4c20-ad7a-8facbc9a8952" />
 
-### RESULT
+
+### RESULT:
+Thus the Python program to print a downward pyramid star pattern using loops was executed successfully and the output was verified.

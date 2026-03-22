@@ -35,6 +35,4 @@ print(f(a,b))
 ### RESULT:
 Thus the Python program using a lambda function to compare two numbers and display their relation was executed successfully and the output was verified.
 
-```
 
-```

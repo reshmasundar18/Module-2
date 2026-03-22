@@ -22,9 +22,6 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM:
 ```
-#Reg.No:212222060199
-#Name: Reshma S
-
 def perfect_num(num):
   
     sume=0  

@@ -22,10 +22,7 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM:
-
 ```
-#Reg.no: 212222060199
-#Name: Reshma S
 a=int(input())
 b=int(input())
 f=lambda a,b: (f"{a} is smaller than {b}")  if a<b else(f"{a} is greater than {b}" if(a>b) else(f"{a} is equal to{b}"))

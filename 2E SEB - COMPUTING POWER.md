@@ -3,12 +3,12 @@
 
 ---
 
-### AIM  
+### AIM:  
 To write a Python program to compute the power of a given number using an appropriate built-in function.
 
 ---
 
-### ALGORITHM
+### ALGORITHM:
 
 1. Begin the program.  
 2. Input the base number (`base`) from the user.  
@@ -19,10 +19,14 @@ To write a Python program to compute the power of a given number using an approp
 
 ---
 
-### PROGRAM
-
+### PROGRAM:
 ```
+a=input()
+b=len (a)
+print("The number of digits in the number are:",b)
 ```
-### OUTPUT
+### OUTPUT:
+<img width="992" height="256" alt="image" src="https://github.com/user-attachments/assets/8ce67a0d-3ab0-488c-a35b-97aa204ede58" />
 
-### RESULT
+### RESULT:
+Thus the python program to count the number of digits in a number has been implemented and executed successfully.
